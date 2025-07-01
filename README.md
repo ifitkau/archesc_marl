@@ -126,16 +126,7 @@ config = {
 
 ## Citation
 
-If you use this code in your research, please cite:
-
-```bibtex
-@article{multi_agent_door_placement_2024,
-  title={Implicit Coordination Through Environment Modification: Multi-Agent RL Approach for Adaptive Door Placement in Evacuation Scenarios},
-  author={Your Name},
-  journal={Your Journal},
-  year={2024}
-}
-```
+tba.
 
 ## License
 
@@ -160,10 +151,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
 
 ## Acknowledgments
 
